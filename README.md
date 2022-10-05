@@ -1,1 +1,2 @@
-# tee-profile
+# flexbox-demo
+demo files for teaching flexbox
